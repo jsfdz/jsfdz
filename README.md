@@ -30,8 +30,8 @@ Languages and Tools:
 ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwind)
 ![Bulma](https://img.shields.io/badge/-Bulma-black?style=flat-square&logo=bulma)
 
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
