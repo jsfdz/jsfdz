@@ -14,6 +14,30 @@ Some things about me, let's get started:
 - 😄 Nicknames: {js} for friends.
 - ⚡ Fun fact: my life cycle eat () sleep () code () repeat ()
 
+Languages and Tools:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=AWS)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
+![Reactjs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Vuejs](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue)
+
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwind)
+![Bulma](https://img.shields.io/badge/-Bulma-black?style=flat-square&logo=bulma)
+
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 <!--
 **jsfdz/jsfdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
