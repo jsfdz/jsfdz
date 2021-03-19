@@ -6,6 +6,7 @@
 <img  src="https://creativecode.it/wp-content/uploads/2020/01/imparare-javascript-2020.png" />
 
 I’m jsfdz a developer from méxico 🚀.
+
 Some things about me, let's get started:
 
 - 🔭 I’m currently as a freelance developer.
