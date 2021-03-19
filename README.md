@@ -1,11 +1,8 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<!--
-**jsfdz/jsfdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### Jesús Fdez - @jsfdz 🚀.
 
-<img  src="https://creativecode.it/wp-content/uploads/2020/01/imparare-javascript-2020.png" />
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I’m jsfdz a developer from méxico 🚀.
+<img  src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" />
 
 Some things about me, let's get started:
 
@@ -16,3 +13,7 @@ Some things about me, let's get started:
 - 📫 How to contact me: soon.
 - 😄 Nicknames: {js} for friends.
 - ⚡ Fun fact: my life cycle eat () sleep () code () repeat ()
+
+<!--
+**jsfdz/jsfdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
