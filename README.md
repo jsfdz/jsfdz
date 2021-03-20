@@ -12,8 +12,8 @@ Some things about me, let's get started:
 - 🌱 I’m currently learning Python at Academlo.
 - 💬 Ask me about what you want.
 - 📫 How to contact me: soon.
-- 😄 Nicknames: {js} for friends.
-- ⚡ Fun fact: my life cycle eat () sleep () code () repeat ()
+- 😄 Nicknames: { js } for friends.
+- ⚡ Fun fact: my life cycle eat() sleep() code() repeat()
 
 Languages and Tools:
 
