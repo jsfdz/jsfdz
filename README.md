@@ -40,6 +40,8 @@ Languages and Tools:
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 
+![VsCode](https://img.shields.io/badge/-VsCode-black?style=flat-square&logo=visual-studio-code&logoColor=blue)
+
 <p align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsfdz" alt="jsfdz" />
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=jsfdz&show_icons=true" alt="jsfdz" />
