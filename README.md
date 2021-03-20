@@ -1,4 +1,5 @@
 # Jesús Fdez - @jsfdz 🚀.
+![](https://komarev.com/ghpvc/?username=jsfdz&style=flat-square&color=efcf32&label=@jsfdz+Profile+Views)
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
@@ -38,6 +39,11 @@ Languages and Tools:
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+
+<p align="center">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsfdz" alt="jsfdz" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jsfdz&show_icons=true" alt="jsfdz" />
+</p>
 <!--
 **jsfdz/jsfdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
