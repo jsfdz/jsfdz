@@ -1,4 +1,4 @@
-# Jesús Fdez - @jsfdz 🚀.
+# Jesús Fernández - @jsfdz 🚀.
 ![](https://komarev.com/ghpvc/?username=jsfdz&style=flat-square&color=efcf32&label=@jsfdz+Profile+Views)
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
@@ -7,13 +7,13 @@
 
 Some things about me, let's get started:
 
-- 🔭 I’m currently as a freelance developer.
+- 🔭 I am currently a teacher at Academlo.
 - 🥰 I love javascript and everything to do with language.
-- 🌱 I’m currently learning Python at Academlo.
+- 🌱 I enjoy my mornings studying and listening to music.
 - 💬 Ask me about what you want.
 - 📫 How to contact me: soon.
-- 😄 Nicknames: { js } for friends.
-- ⚡ Fun fact: my life cycle eat() sleep() code() repeat()
+- 😄 Nicknames: jsfdz for friends.
+- ⚡ Play with me on weekends on twitch.
 
 Languages and Tools:
 
@@ -28,7 +28,7 @@ Languages and Tools:
 ![Vuejs](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwind)
+![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss)
 ![Bulma](https://img.shields.io/badge/-Bulma-black?style=flat-square&logo=bulma)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
