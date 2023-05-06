@@ -43,8 +43,8 @@ Languages and Tools:
 ![VsCode](https://img.shields.io/badge/-VsCode-black?style=flat-square&logo=visual-studio-code&logoColor=blue)
 
 <p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsfdz" alt="jsfdz" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jsfdz&show_icons=true" alt="jsfdz" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsfdz&theme=tokyonight" alt="jsfdz" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=jsfdz&show_icons=true&theme=tokyonight" alt="jsfdz" />
 </p>
 <!--
 **jsfdz/jsfdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
