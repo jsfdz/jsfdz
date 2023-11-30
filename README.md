@@ -1,51 +1,82 @@
-# Jesús Fernández - @jsfdz 🚀.
-![](https://komarev.com/ghpvc/?username=jsfdz&style=flat-square&color=efcf32&label=@jsfdz+Profile+Views)
+# Hello there, I'm Jesús Fernández <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+A few things about me, let's start:
 
-<img  src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" />
-
-Some things about me, let's get started:
-
-- 🔭 I am currently a teacher at Academlo.
-- 🥰 I love javascript and everything to do with language.
+- 💻 I'm a full-stack software developer
+- 🔭 I'm currently a teacher at Academlo.
+- 🥰 I ~like~ **love** javascript and everything to do with language.
 - 🌱 I enjoy my mornings studying and listening to music.
-- 💬 Ask me about what you want.
-- 📫 How to contact me: soon.
-- 😄 Nicknames: jsfdz for friends.
-- ⚡ Play with me on weekends on twitch.
 
-Languages and Tools:
+## 🛠️ My Tech Stack
+![VsCode](https://img.shields.io/badge/-VsCode-black?style=flat-square&logo=visual-studio-code&logoColor=blue)
+![GnuBash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
+![NPM](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
+![PNPM](https://img.shields.io/badge/-pnpm-black?style=flat-square&logo=pnpm)
 
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=skyblue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=AWS)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
+![Bulma](https://img.shields.io/badge/-Bulma-black?style=flat-square&logo=bulma)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
+![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss)
+
 ![Reactjs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Vuejs](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
+![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte)
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss)
-![Bulma](https://img.shields.io/badge/-Bulma-black?style=flat-square&logo=bulma)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![SvelteKit](https://img.shields.io/badge/-SvelteKit-black?style=flat-square&logo=svelte)
 
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
+![PostgressSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
+![JsonWebToken](https://img.shields.io/badge/-JsonWebToken-black?style=flat-square&logo=jsonwebtokens)
+![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
+
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
-![VsCode](https://img.shields.io/badge/-VsCode-black?style=flat-square&logo=visual-studio-code&logoColor=blue)
+![Slack](https://img.shields.io/badge/-Slack-black?style=flat-square&logo=slack)
+![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion)
+![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord)
 
-<p align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsfdz&theme=tokyonight" alt="jsfdz" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=jsfdz&show_icons=true&theme=tokyonight" alt="jsfdz" />
+
+## 📈 My GitHub Stats
+![](https://komarev.com/ghpvc/?username=jsfdz&style=flat-square&color=222222&label=@jsfdz+Profile+Views)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jsfdz&show_icons=true&theme=radical"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=jsfdz&show_icons=true&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jsfdz&show_icons=true" />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jsfdz&layout=compact&langs_count=8&theme=radical"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jsfdz&layout=compact&langs_count=8&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsfdz&layout=compact&langs_count=8" />
+</picture>
+
+ Last Updated on 11/30/2023 12:27:00 UTC
+
+## 📫 How to reach me
+
+<p>
+  <a href="mailto:jsfdzdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail"/></a>
+  <a href="https://www.linkedin.com/in/jsfdz/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin"/></a>
 </p>
-<!--
-**jsfdz/jsfdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
