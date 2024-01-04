@@ -54,7 +54,6 @@ A few things about me, let's start:
 
 
 ## 📈 My GitHub Stats
-![](https://komarev.com/ghpvc/?username=jsfdz&style=flat-square&color=222222&label=@jsfdz+Profile+Views)
 
 <table align="left">
   <tr>
@@ -89,11 +88,13 @@ A few things about me, let's start:
   </tr>
 </table>
 
- Last Updated on 01/03/2024 12:27:00 UTC
-
 ## 📫 How to reach me
 <p>
   <a href="mailto:jsfdzdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail"/></a>
   <a href="https://www.linkedin.com/in/jsfdz/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=blue"/></a>
   <a href="https://www.youtube.com/@jsfdz/"><img src="https://img.shields.io/badge/-YouTube-black?style=flat-square&logo=YouTube&logoColor=red"/></a>
 </p>
+
+## ![](https://komarev.com/ghpvc/?username=jsfdz&style=flat-square&color=000000&label=@jsfdz+Profile+Views)
+
+<sub>Last Updated: on 01/03/2024 12:27:00 UTC</sub>
