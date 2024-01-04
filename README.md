@@ -95,6 +95,13 @@ A few things about me, let's start:
   <a href="https://www.youtube.com/@jsfdz/"><img src="https://img.shields.io/badge/-YouTube-black?style=flat-square&logo=YouTube&logoColor=red"/></a>
 </p>
 
+
+## 🍻 Buy Me A Beer
+
+<a href="https://www.buymeacoffee.com/jsfdz" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
+
+<br>
+
 ## ![](https://komarev.com/ghpvc/?username=jsfdz&style=flat-square&color=000000&label=@jsfdz+Profile+Views)
 
 <sub>Last Updated: on 01/03/2024 12:27:00 UTC</sub>
