@@ -41,7 +41,7 @@ If you like what I do, feel free to buy me a coffee or tea 👉👈
 ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss)
 
 
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=e90364)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
 ![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte)
@@ -57,7 +57,7 @@ If you like what I do, feel free to buy me a coffee or tea 👉👈
 
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![Nest.js](https://img.shields.io/badge/-Nest.js-black?style=flat-square&logo=nest.js)
+![Nest.js](https://img.shields.io/badge/-Nest.js-black?style=flat-square&logo=nestjs&logoColor=ea2865)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![JsonWebToken](https://img.shields.io/badge/-JsonWebToken-black?style=flat-square&logo=jsonwebtokens)
