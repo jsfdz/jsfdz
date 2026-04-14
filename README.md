@@ -20,7 +20,7 @@ If you like what I do, feel free to buy me a coffee or tea 👉👈
 
 <br><br>
 
-## 🛠️ My Tech Stack
+## Tech Stack
 ![Cursor](https://img.shields.io/badge/-Cursor-black?style=flat-square&logo=cursor)
 ![GnuBash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
