@@ -1,21 +1,35 @@
-# ✨ Hello there, I'm Jesús Fernández <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0f2e,50:2d1b4e,100:1a0f2e&height=300&section=header&text=Jesús%20Fernández&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Tech%20Enthusiast%20•%20Gamer%20•%20Web/Mobile%20Developer&descSize=20&descAlignY=55" width="100%">
 
-A few things about me, let's start:
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px">Hello there
 
-- 💻 I'm a full-stack software developer
-- 🔭 I'm currently a teacher at Academlo.
-- 🥰 I ~like~ **love** javascript and everything to do with language.
-- 🌱 I enjoy my mornings studying and listening to music.
+My name is Jesús Fernández, and I'm a builder who enjoys turning ideas into reliable products. I work across the stack—from frontend and backend development to databases, deployments, and cloud infrastructure. I care about clean code, great developer experience, and building practical, scalable solutions.
+
+I enjoy solving real-world problems, improving products, and constantly learning new tools and better workflows. Lately, I’ve been especially interested in modern web development, AI-assisted workflows, and developer tooling.
+
+💻 Passionate about web and mobile development, and currently exploring AI.
+
+🎶 Music is a big part of my life.
+
+🎞️ I also enjoy video games and film.
+
+If you like what I do, feel free to buy me a coffee or tea 👉👈
+
+<a href="https://www.buymeacoffee.com/jsfdz" target="_blank">
+  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+</a>
+
+<br><br>
 
 ## 🛠️ My Tech Stack
-![VsCode](https://img.shields.io/badge/-VsCode-black?style=flat-square&logo=visual-studio-code&logoColor=blue)
+![Cursor](https://img.shields.io/badge/-Cursor-black?style=flat-square&logo=cursor)
 ![GnuBash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
 ![NPM](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
 ![PNPM](https://img.shields.io/badge/-pnpm-black?style=flat-square&logo=pnpm)
+![Bun](https://img.shields.io/badge/-bun-black?style=flat-square&logo=bun)
 
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=skyblue)
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -26,82 +40,93 @@ A few things about me, let's start:
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss)
 
-![Reactjs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Vuejs](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
+
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-black?style=flat-square&logo=vue.js)
 ![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte)
+![Astro](https://img.shields.io/badge/-Astro-black?style=flat-square&logo=astro)
+![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
+![Ionic](https://img.shields.io/badge/-Ionic-black?style=flat-square&logo=ionic)
 
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![React Router](https://img.shields.io/badge/-React%20Router-black?style=flat-square&logo=react-router)
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-black?style=flat-square&logo=svelte)
+![Clerk](https://img.shields.io/badge/-clerk-black?style=flat-square&logo=clerk)
+![Better Auth](https://img.shields.io/badge/-Better%20Auth-black?style=flat-square&logo=better-auth)
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgressSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![Nest.js](https://img.shields.io/badge/-Nest.js-black?style=flat-square&logo=nest.js)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![JsonWebToken](https://img.shields.io/badge/-JsonWebToken-black?style=flat-square&logo=jsonwebtokens)
 ![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
 
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongoose)
+![PostgressSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Sequelize](https://img.shields.io/badge/-sequelize-black?style=flat-square&logo=sequelize)
+![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
+![Drizzle](https://img.shields.io/badge/-Drizzle-black?style=flat-square&logo=drizzle)
+![TypeORM](https://img.shields.io/badge/-TypeORM-black?style=flat-square&logo=typeorm)
+
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![Namecheap](https://img.shields.io/badge/-Namecheap-black?style=flat-square&logo=namecheap)
+![Resend](https://img.shields.io/badge/-Resend-black?style=flat-square&logo=resend)
+
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-black?style=flat-square&logo=aws)
+![Hostinger VPS](https://img.shields.io/badge/-Hostinger%20VPS-black?style=flat-square&logo=hostinger)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-black?style=flat-square&logo=cloudflare)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-black?style=flat-square&logo=cloudinary)
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-black?style=flat-square&logo=amazon)
+
+![GitHub Copilot](https://img.shields.io/badge/-Copilot-black?style=flat-square&logo=github-copilot)
+![Google Gemini](https://img.shields.io/badge/-Gemini-black?style=flat-square&logo=google-gemini)
+![Meta Llama](https://img.shields.io/badge/-Llama-black?style=flat-square&logo=meta)
+![Anthropic Cloude](https://img.shields.io/badge/-Cloude-black?style=flat-square&logo=anthropic)
 
 ![Slack](https://img.shields.io/badge/-Slack-black?style=flat-square&logo=slack)
 ![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion)
 ![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord)
 
-### JsFullStack
+## GitHub Stats
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs&perline=12" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jsfdz&hide_border=true&background=291B3E&border=A960FF&stroke=A960FF&ring=fd7cff&fire=fd0098&currStreakNum=c7b8ff&currStreakLabel=7c60d1&sideNums=c7b8ff&sideLabels=7c60d1&dates=f0f0f5&border_radius=10" alt="jsfdz's github commit streak" width="100%" />
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jsfdz&theme=jolly" width="100%">
 
-## 📈 My GitHub Stats
-
-<table align="left">
+<div align="center">
+<table>
   <tr>
-    <td width="60%" align="center">
-      <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=jsfdz&show_icons=true&theme=radical" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api?username=jsfdz&show_icons=true&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api?username=jsfdz&show_icons=true" />
-      </picture>
-      <picture>
-        <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=jsfdz&theme=radical" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=jsfdz&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsfdz" />
-      </picture>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jsfdz&theme=jolly" alt="Stats">
     </td>
-    <td width="40%" align="center">
-      <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jsfdz&layout=compact&langs_count=8&theme=radical" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jsfdz&layout=compact&langs_count=8&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsfdz&layout=compact&langs_count=8" />
-      </picture>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jsfdz&theme=jolly&utcOffset=8" alt="Commits">
     </td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="2" align="center">
-      <picture>
-        <source srcset="https://github-profile-trophy.vercel.app/?username=jsfdz&theme=radical&row=1&column=7&margin-h=15&margin-w=5" media="(prefers-color-scheme: dark)" />
-        <source srcset="https://github-profile-trophy.vercel.app/?username=jsfdz&theme=default" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-profile-trophy.vercel.app/?username=jsfdz" />
-      </picture>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsfdz&theme=jolly" alt="Top Language">
     </td>
   </tr>
 </table>
 
-## 📫 How to reach me
-<p>
-  <a href="mailto:jsfdzdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=Gmail"/></a>
-  <a href="https://www.linkedin.com/in/jsfdz/"><img src="https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin&logoColor=blue"/></a>
-  <a href="https://www.youtube.com/@jsfdz/"><img src="https://img.shields.io/badge/-YouTube-black?style=flat-square&logo=YouTube&logoColor=red"/></a>
-</p>
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 
-## 🍻 Buy Me A Beer
+<div align="center">
 
-<a href="https://www.buymeacoffee.com/jsfdz" target="_blank"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
+  ## ![](https://komarev.com/ghpvc/?username=jsfdz&style=flat-square&color=291B3E&label=@jsfdz+Profile+Views)
 
-<br><br>
+</div>
 
-## ![](https://komarev.com/ghpvc/?username=jsfdz&style=flat-square&color=000000&label=@jsfdz+Profile+Views)
-
-<sub>Last Updated: on 01/03/2024 12:27:00 UTC</sub>
+<p align="center"><sub>Last Updated: on 14/04/2026 16:02:00 UTC</sub></p>
