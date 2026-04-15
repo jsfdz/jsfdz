@@ -15,7 +15,7 @@ I enjoy solving real-world problems, improving products, and constantly learning
 If you like what I do, feel free to buy me a coffee or tea 👉👈
 
 <a href="https://www.buymeacoffee.com/jsfdz" target="_blank">
-  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" alt="Buy Me A Coffee" />
 </a>
 
 <br><br>
@@ -24,22 +24,23 @@ If you like what I do, feel free to buy me a coffee or tea 👉👈
 ![Cursor](https://img.shields.io/badge/-Cursor-black?style=flat-square&logo=cursor)
 ![GnuBash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnubash&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
-![NPM](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm)
+![NPM](https://img.shields.io/badge/-npm-black?style=flat-square&logo=npm&logoColor=c12127)
 ![PNPM](https://img.shields.io/badge/-pnpm-black?style=flat-square&logo=pnpm)
-![Bun](https://img.shields.io/badge/-bun-black?style=flat-square&logo=bun)
+![Bun](https://img.shields.io/badge/-bun-black?style=flat-square&logo=bun&logoColor=f4e8d8)
+![ESLint](https://img.shields.io/badge/-ESLint-black?style=flat-square&logo=eslint&logoColor=482ebd)
 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css)
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css&logoColor=663399)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat-square&logo=markdown)
 
 ![Bulma](https://img.shields.io/badge/-Bulma-black?style=flat-square&logo=bulma)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=sass)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss)
-
 
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular&logoColor=e90364)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -52,33 +53,42 @@ If you like what I do, feel free to buy me a coffee or tea 👉👈
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![React Router](https://img.shields.io/badge/-React%20Router-black?style=flat-square&logo=react-router)
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-black?style=flat-square&logo=svelte)
-![Clerk](https://img.shields.io/badge/-clerk-black?style=flat-square&logo=clerk)
+![Clerk](https://img.shields.io/badge/-Clerk-black?style=flat-square&logo=clerk)
 ![Better Auth](https://img.shields.io/badge/-Better%20Auth-black?style=flat-square&logo=better-auth)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-black?style=flat-square&logo=nestjs&logoColor=ea2865)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![JsonWebToken](https://img.shields.io/badge/-JsonWebToken-black?style=flat-square&logo=jsonwebtokens)
 ![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-black?style=flat-square&logo=mongoose)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=db)
 ![PostgressSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![Sequelize](https://img.shields.io/badge/-sequelize-black?style=flat-square&logo=sequelize)
+![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=sequelize)
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
 ![Drizzle](https://img.shields.io/badge/-Drizzle-black?style=flat-square&logo=drizzle)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-black?style=flat-square&logo=typeorm)
 
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-black?style=flat-square&logo=insomnia&logoColor=5849be)
+![Jest](https://img.shields.io/badge/-Jest-black?style=flat-square&logo=jest&logoColor=C81E73)
+![Supertest](https://img.shields.io/badge/-Supertest-black?style=flat-square&logo=supertes)
+![Vitest](https://img.shields.io/badge/-Vitest-black?style=flat-square&logo=vitest)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github-actions)
+![DBeaver](https://img.shields.io/badge/-DBeaver-black?style=flat-square&logo=dbeaver&logoColor=846d5e)
+
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![Namecheap](https://img.shields.io/badge/-Namecheap-black?style=flat-square&logo=namecheap)
+![Namecheap](https://img.shields.io/badge/-Namecheap-black?style=flat-square&logo=namecheap&logoColor=ea6214)
 ![Resend](https://img.shields.io/badge/-Resend-black?style=flat-square&logo=resend)
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-black?style=flat-square&logo=aws)
-![Hostinger VPS](https://img.shields.io/badge/-Hostinger%20VPS-black?style=flat-square&logo=hostinger)
+![Hostinger VPS](https://img.shields.io/badge/-Hostinger%20VPS-black?style=flat-square&logo=hostinger&logoColor=724bd0)
 ![Cloudflare](https://img.shields.io/badge/-Cloudflare-black?style=flat-square&logo=cloudflare)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Cloudinary](https://img.shields.io/badge/-Cloudinary-black?style=flat-square&logo=cloudinary)
@@ -86,12 +96,26 @@ If you like what I do, feel free to buy me a coffee or tea 👉👈
 
 ![GitHub Copilot](https://img.shields.io/badge/-Copilot-black?style=flat-square&logo=github-copilot)
 ![Google Gemini](https://img.shields.io/badge/-Gemini-black?style=flat-square&logo=google-gemini)
-![Meta Llama](https://img.shields.io/badge/-Llama-black?style=flat-square&logo=meta)
-![Anthropic Cloude](https://img.shields.io/badge/-Cloude-black?style=flat-square&logo=anthropic)
+![Meta Llama](https://img.shields.io/badge/-Llama-black?style=flat-square&logo=meta&logoColor=0882f7)
+![Anthropic Cloude](https://img.shields.io/badge/-Cloude-black?style=flat-square&logo=anthropic&logoColor=d29e79)
 
-![Slack](https://img.shields.io/badge/-Slack-black?style=flat-square&logo=slack)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Notion](https://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion)
+![Gmail](https://img.shields.io/badge/-Gmail-black?style=flat-square&logo=gmail)
+![Slack](https://img.shields.io/badge/-Slack-black?style=flat-square&logo=slack)
+
+![Youtube](https://img.shields.io/badge/-Youtube-black?style=flat-square&logo=youtube&logoColor=fe0808)
+![Facebook](https://img.shields.io/badge/-Facebook-black?style=flat-square&logo=facebook&logoColor=207bf3)
+![Instagram](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram&logoColor=f84386)
+![TikTok](https://img.shields.io/badge/-TikTok-black?style=flat-square&logo=tiktok)
+![X](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=x)
 ![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord)
+![Twitch](https://img.shields.io/badge/-Twitch-black?style=flat-square&logo=twitch)
+
+![Whatsapp](https://img.shields.io/badge/-Whatsapp-black?style=flat-square&logo=whatsapp)
+![Telegram](https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=telegram)
+![Zoom](https://img.shields.io/badge/-Zoom-black?style=flat-square&logo=zoom)
+![Google Meet](https://img.shields.io/badge/-Google%20Meet-black?style=flat-square&logo=google-meet)
 
 ## GitHub Stats
 
@@ -99,22 +123,11 @@ If you like what I do, feel free to buy me a coffee or tea 👉👈
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jsfdz&theme=jolly" width="100%">
 
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jsfdz&theme=jolly" alt="Stats">
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jsfdz&theme=jolly&utcOffset=8" alt="Commits">
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsfdz&theme=jolly" alt="Top Language">
-    </td>
-  </tr>
-</table>
-
-</div>
+<p align="center">
+  <img width="33.025%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jsfdz&theme=jolly" />
+  <img width="33.05%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jsfdz&theme=jolly&utcOffset=8" />
+  <img width="33.025%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsfdz&theme=jolly" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
