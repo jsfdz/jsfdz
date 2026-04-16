@@ -124,12 +124,12 @@ If you like what I do, feel free to buy me a coffee or tea 👉👈
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jsfdz&theme=jolly" width="100%">
 
 <p align="center">
-  <img width="33.025%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jsfdz&theme=jolly" />
+  <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jsfdz&theme=jolly" />
   <img width="33.05%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jsfdz&theme=jolly&utcOffset=8" />
-  <img width="33.025%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsfdz&theme=jolly" />
+  <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsfdz&theme=jolly" />
 </p>
 
-![Snake animation](https://raw.githubusercontent.com/jsfdz/jsfdz/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/jsfdz/jsfdz/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%">
 
 
 <div align="center">
