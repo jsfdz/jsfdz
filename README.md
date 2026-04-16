@@ -129,11 +129,7 @@ If you like what I do, feel free to buy me a coffee or tea 👉👈
   <img width="33.025%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jsfdz&theme=jolly" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+![Snake animation](https://raw.githubusercontent.com/jsfdz/jsfdz/output/github-contribution-grid-snake-dark.svg)
 
 
 <div align="center">
