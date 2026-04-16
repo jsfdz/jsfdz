@@ -3,7 +3,7 @@ name: generate animation
 on:
   # run automatically every 24 hours
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 */12 * * *" 
   
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -11,7 +11,7 @@ on:
   # run on every push on the master branch
   push:
     branches:
-    - master
+    - main
     
   
 
@@ -20,7 +20,7 @@ jobs:
     permissions: 
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
     
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
@@ -29,8 +29,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=291b3e
+            dist/github-contribution-grid-snake-dark.svg?color_snake=291b3e?palette=github-dark
           
           
       # push the content of <build_dir> to a branch
